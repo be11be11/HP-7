@@ -102,7 +102,7 @@ div.子2 {border:2px solid blue; width: 78%; height: 49%;　background-color: rg
    div.テキスト {border:2px solid green; width: 45%; height: 25px; background-color: rgba(100, 0, 50, 0.2); position: absolute; margin-top: 15px; z-index: 2; } 
 img.ヘア1 {border:2px solid orange; width: 40%; box-sizing: border-box; margin-top: 5%; z-index: 1;}
 img.ヘア2 {border:2px solid pink; width: 0%; box-sizing: border-box; margin-top: -100%; margin-left: 60%; opacity: 0.5; z-index: -2;}
-img.ヘア3 {border:2px solid green; width: 40%; box-sizing: border-box; display: block; margin-top: -125%; margin-left: 60%; }
+img.ヘア3 {border:2px solid green; width: 40%; box-sizing: border-box; display: block; margin-top: -50%; margin-left: 60%; }
 img.ヘア4 {border:2px solid aqua; width: 40%; box-sizing: border-box; margin-top: 15%; margin-left: 60%; }    
 img.ヘア5 {border:2px solid red; width: 40%; box-sizing: border-box; margin-top: -40%; }  
    
